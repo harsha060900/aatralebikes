@@ -1,0 +1,95 @@
+h1.title{
+    font-family: 'Orbitron', sans-serif;
+    letter-spacing: 5px; 
+    text-align: center;
+    margin-bottom: 3px;
+   
+}
+h5{
+    font-family: 'Orbitron', sans-serif;
+    letter-spacing: 2px;   
+    text-align: center;
+    margin-top: 3px;  
+}
+hr.a{
+    height: 1.5px;
+    margin: 0%;
+}
+.navbar-brand{
+    font-family: 'Markazi Text', serif;
+    font-size: 250%;
+    letter-spacing: 1.5px;
+}
+.navbar{
+    background-color: 	#5cdb95;
+}
+.nav-link{
+    margin-right: 50px;
+    font-size: 125%;
+}
+a.li:hover{
+    background-color:white;
+    transition: 1s;
+   
+}
+#features{
+    padding: 7% 15%;
+}
+.feature-box{
+    text-align: center;
+    font-family: 'Lemonada', cursive;
+    font-size: 1.4em;
+    
+}
+.fe-mar{
+    margin-bottom: 100px;
+}
+.feature-style{
+    margin-bottom: 10%;
+}
+.nxt:hover{
+    background-color:	#D3D3D3;
+}
+.img-align{
+    width: 80%;
+    margin-left: 17%;
+    height: 100%;
+}
+.card{
+    background-color: white;
+}
+.tab-ht{
+    height: 50px;
+}
+.tab-td{
+    font-weight: 500;
+}
+.tab-font{
+    font-size: 1.3em;
+}
+.veh-name{
+    font-family: 'Orbitron', sans-serif;
+    font-size: 3em;
+}
+.container-gal{
+    
+    margin: 100px 10% 0% 10%;
+}
+.gal:hover{
+transform: scale(1.5);
+}
+.galc:hover{
+    transform: scale(2);
+}
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+  /* Clear floats after image containers */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
